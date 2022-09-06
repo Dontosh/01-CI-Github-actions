@@ -1,3 +1,4 @@
+[![Java CI with Maven](https://github.com/Dontosh/01-CI-Github-actions/actions/workflows/main.yml/badge.svg)](https://github.com/Dontosh/01-CI-Github-actions/actions/workflows/main.yml)
 
 # LAB - CI med GitHub actions 
 
